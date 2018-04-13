@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Maca134.Arma.DllExport" Version="0.0.2.7" />
+  </ItemGroup>
+
 </Project>
